@@ -88,3 +88,32 @@ body{
     padding: 20px;
 }
 
+.background-first{
+    width: 350px;
+    height: 450px;
+    background-color: #fdd4e8;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.background-second{
+    width: 350px;
+    height: 450px;
+    background-color: #cae8e9;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.background-thread{
+    width: 350px;
+    height: 450px;
+    background-color: #d6d6d6;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.service-h{
+    margin-top: 20px;
+    text-decoration: underline;
+    padding: 10px;
+}
