@@ -65,3 +65,20 @@ body{
 } */
 
 /* Our-Featured-info */
+/* box section */
+
+.box{
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    background-color: #E55473;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.icon{
+    width: 250px;
+    height: 350px;
+    padding-top: 100px;
+}
+
