@@ -3,7 +3,7 @@ margin: 0px;
 padding: 0px;
 }
 
-body{
+.body{
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -142,16 +142,22 @@ body{
     margin-top: 100px;
 }
 
-.text-off{
+/* .text-off{
     color: #E55473;
+} */
+.service-container-box{
+    display: flex;
+
 }
 
-.banner-img-class{
-    width: 250px;
-    height: 350px;
+.box-new-service{
+    padding-left: 60px;
+    padding-bottom: 80px;
+    margin: 5px;
 }
 
 
-  
+
+
 
 
