@@ -82,3 +82,9 @@ body{
     padding-top: 100px;
 }
 
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
