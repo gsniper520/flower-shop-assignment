@@ -134,12 +134,24 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    /* margin: 10px; */
-    /* margin-inline-start: 40px; */
-    /* padding-top: 30px;
-    padding-left: 160px; */
-    
-/* }
-.same-day{
-    margin-inline: 30px;
-} */
+}
+
+
+/* Hot Deal ! Sale Up To 25% Off */
+.section-offer{
+    margin-top: 100px;
+}
+
+.text-off{
+    color: #E55473;
+}
+
+.banner-img-class{
+    width: 250px;
+    height: 350px;
+}
+
+
+  
+
+
